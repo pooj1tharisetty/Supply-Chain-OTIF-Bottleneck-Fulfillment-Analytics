@@ -3,7 +3,7 @@ This horizontal image captures the interactive data grid modeling executed in Qu
 
 <img width="1917" height="866" alt="Quadratic_grid png" src="https://github.com/user-attachments/assets/bd534a61-a1c1-41db-83e5-0d60d7edb9f3" />
 
-3. The Plotly SLA & Revenue Dashboard
+2. The Plotly SLA & Revenue Dashboard
 This combined infographic, generated in Google Colab using Plotly Express, isolates key operational bottlenecks by visualizing On-Time In-Full (OTIF) success rates across shipping classes and strictly quantifying the USD revenue currently at risk across the top 10 delayed regions
 
 <img width="1917" height="1078" alt="Plotly_Dashboard png" src="https://github.com/user-attachments/assets/f0a4ec04-430a-4d74-922d-97e864f87bec" />
